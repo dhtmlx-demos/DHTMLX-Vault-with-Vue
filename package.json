@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@dhx/trial-vault": "^4.1.4",
     "vue": "^3.3.9"
   },
   "devDependencies": {
