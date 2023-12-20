@@ -22,8 +22,5 @@ export default {
 </script>
 
 <template>
-  <div
-    ref="cont"
-    style="width: '440px', height: '400px', margin: '50px auto'"
-  ></div>
+  <div ref="cont" style="width: 440px; height: 400px; margin: 50px auto"></div>
 </template>

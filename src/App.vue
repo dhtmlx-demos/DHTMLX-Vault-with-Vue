@@ -1,5 +1,5 @@
 <script>
-import Spreadsheet from "./components/Vault.vue";
+import Vault from "./components/Vault.vue";
 import { getData } from "./data";
 
 export default {
